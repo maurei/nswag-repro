@@ -50,7 +50,7 @@
     "schemas": {
       "article-collection-response-document": {
         "required": [
-          "data",
+          "data"
         ],
         "type": "object",
         "properties": {
@@ -113,7 +113,7 @@
       },
       "person-collection-response-document": {
         "required": [
-          "data",
+          "data"
         ],
         "type": "object",
         "properties": {
