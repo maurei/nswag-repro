@@ -30,7 +30,7 @@
     "schemas": {
       "person-collection-response-document": {
         "required": [
-          "data",
+          "data"
         ],
         "type": "object",
         "properties": {
